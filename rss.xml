@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tony Bartish]]></title>
+        <description><![CDATA[Tony Bartish]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 02:26:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined12357919-fdc3-4dad-a11c-74dd0d6ba7c7/index.html</link>
+            <guid isPermaLink="false">12357919-fdc3-4dad-a11c-74dd0d6ba7c7</guid>
+            <pubDate>Fri, 04 Mar 2016 02:25:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
