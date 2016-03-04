@@ -1,0 +1,28 @@
+name: Tony Bartish
+favicon: null
+layout_spectrum: 0.46170679619535804
+typography_spectrum: 0.8893782799132168
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6557972717564553
+  lightness: 0.5395050670485944
+  saturation: 0.5578125219326466
+  rhythmicContrast: 0.8351797594223171
+purpose: []
